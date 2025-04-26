@@ -14,7 +14,7 @@ Window:AddMinimizeButton({
 local Tab = Window:MakeTab({"Discord", "info"})
 
 Tab:AddDiscordInvite({
-    Name = "redz Hub | Community",
+    Name = "haidwng Hub | Community",
     Description = "Join our discord community to receive information about the next update",
     Logo = "rbxassetid://108493141915018",
     Invite = "https://discord.gg/7N8Xqf7p",
